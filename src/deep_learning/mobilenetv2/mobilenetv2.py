@@ -9,6 +9,8 @@ from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 
 # MobileNetV2 doc
 # https://www.tensorflow.org/api_docs/python/tf/keras/applications/MobileNetV2
+# Code example for fine-tuning MobileNetV2 using
+# https://medium.com/@alfred.weirich/finetuning-tensorflow-keras-networks-basics-using-mobilenetv2-as-an-example-8274859dc232
 
 """
 MobileNetV2 Trainer Class

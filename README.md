@@ -154,3 +154,10 @@ When prolonged closure or high PERCLOS is detected:
 DRIVER FATIGUE DETECTED!
 
 ---
+
+# 7. Quick Guide
+
+```
+source venv/bin/activate # activate venv
+python3 main.py  # run main python
+```
